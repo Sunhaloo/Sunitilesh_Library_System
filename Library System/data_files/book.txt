@@ -1,0 +1,11 @@
+ISBN,Book Name,Author,Category,Availability
+1,To Kill a Mockingbird,Harper Lee,Classic Literature,True
+2,1984,George Orwell,Dystopian,False
+3,The Great Gatsby,F. Scott Fitzgerald,Classic Literature,True
+4,Moby-Dick,Herman Melville,Adventure,True
+5,The Catcher in the Rye,J.D. Salinger,Fiction,True
+6,War and Peace,Leo Tolstoy,Historical Fiction,False
+7,Pride and Prejudice,Jane Austen,Classic Literature,True
+8,Brave New World,Aldous Huxley,Dystopian,True
+9,The Lord of the Rings,J.R.R. Tolkien,Fantasy,True
+10,The Hobbit,J.R.R. Tolkien,Fantasy,True
